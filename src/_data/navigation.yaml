@@ -3,3 +3,5 @@ items:
     url: /blog
   - text: 後台
     url: /admin
+  - text: 筆記文
+    url: https://www.letswrite.tw/netlify-cms-edm/
